@@ -4,10 +4,8 @@
 https://projects.invisionapp.com/share/PWL0LWRZ5TQ#/screens/303308570_1
 
 ## Single Screens
-Select Prototyp:
+Select Story:
 ![1](1_Select_Project.png)
-Stories Overview:
-![2](2_StoryOverview.png)
 Customize Me:
 ![3](3_CustomizeMeSelf.png)
 Customize Me 2:
