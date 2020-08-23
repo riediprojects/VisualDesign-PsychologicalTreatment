@@ -1,5 +1,8 @@
 # App Design to Psychological Treatment Support
 
+## Ziel
+Patienten unter psychologischer Betreung sollen mittels einer App ihre Gefühle in Altagssituationen dokumentieren können. An psychologischen Sitzungen soll die App anschliessend dazu helfen, Vergangenen Emotionen besser wiedergeben zu können, sodass dem behandelnde Psychologen einen bessern Eindruck darüber erhält, wie die Situation abgelaufen ist.   
+
 ## Interaktiv Prototyp
 https://projects.invisionapp.com/share/PWL0LWRZ5TQ#/screens/303308570_1
 
