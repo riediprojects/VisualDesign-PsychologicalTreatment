@@ -1,4 +1,4 @@
-# App Design to Psychological Treatment Support
+# App Visual Design: Psychological Treatment Support
 
 ## Ziel
 Patienten unter psychologischer Betretung sollen mittels App ihre Gefühle aus Alltagsituationen Dokumentieren können. An den jeweiligen therapeutischen Sitzungen soll dann zusammen mit dem behandelnden Psychologen die App dazu helfen, sich an die Vergangenen Geschichten und Emotionen besser erinnern und zu können sowie sie möglichst genau wiedergegeben zu können. 
